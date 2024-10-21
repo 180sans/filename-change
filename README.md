@@ -1,5 +1,4 @@
 # a really simple filename change tool  
-A repository for a simple tool.  
 In configs.conf, change folderPath to your own path.  
 Execute changefilename.exe, and a .txt file with file name will be generated. Change it and save.  
 Please note that this is my first attempt.  
